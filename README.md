@@ -1,7 +1,7 @@
 # TasteTrip-Food-Analyzer
 
-Live Site:
-https://cc-api-predict-dev-fe-production.up.railway.app/
+[Live Site](http://35.222.70.188:3000/)
 
-Github Org:
-https://github.com/TasteTrip
+[Backup Site](https://cc-api-predict-dev-fe-production.up.railway.app/)
+
+[Github Org](https://github.com/TasteTrip)
